@@ -1,3 +1,11 @@
+.bigpics {
+width: 60%;
+}
+
+.smallpics {
+width: 35%;
+}
+
 .steps {
   color: black;
   font-family: "Arial";
